@@ -1,13 +1,13 @@
 #---------------------Wechat_Config-------------------------------------------------------------------------------
 
-appID = "wx014e6d2d5edeef3e"
-appSecret = "f66d2b19071fd42f0b30a45985a5b518"
+appID = ""
+appSecret = ""
 
 #Receiver ID
-openId = "oN8Uu65PgzXqHrMMrHXZ3tst78bA"
+openId = ""
 
 # Templete ID : Premium
-timetable_template_id = "nwhiLPwuZWNiRpSY5l9ehJg06COdDoo3ybQu6tp4EbQ" 
+timetable_template_id = "" 
 
 #------------------------------------------------------------------------------------------------------------------
 
